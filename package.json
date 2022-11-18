@@ -39,6 +39,6 @@
     "jest-cli": "^24.9.0",
     "socket.io-client": "^2.3.0",
     "webpack": "^4.41.1",
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   }
 }
